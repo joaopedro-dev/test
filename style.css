@@ -1,0 +1,25 @@
+body{
+    background-color:#545454;
+    padding: 0%;
+    border: 0;
+    display: flex;
+    margin: 0px;
+}
+#navbar{
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+    height:800px;
+    background-color:#1ccab1;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+#dash{
+    margin: 10px;
+    background-color: azure;
+    height: 500px;
+    border-radius: 5px;
+    box-shadow: black 1px 2px 3px 1px ;
+}
